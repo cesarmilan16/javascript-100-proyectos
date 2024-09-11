@@ -1,1 +1,3 @@
-# javascript-100-proyectos
+# Tinder swipe
+
+Realizamos la animación de deslizar la foto de tinder.
