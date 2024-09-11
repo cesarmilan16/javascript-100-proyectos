@@ -1,1 +1,3 @@
-100 proyectos para practicar del canal de midudev
+# 100 proyectos de javascript
+
+Estos proyetos los cogemos del canal de midudev
